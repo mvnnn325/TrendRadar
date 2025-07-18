@@ -106,3 +106,12 @@ ai
 火星
 宇宙
 飞船
+
+KIMI
+kimi
+月之暗面
+
+Claude Code
+Augment
+Cursor
+Windsurf
